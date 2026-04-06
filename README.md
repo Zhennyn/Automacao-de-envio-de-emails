@@ -1,7 +1,7 @@
 # 📧 Automação de Envio de E-mails
 Solução em Python para disparo de e-mails em lote com personalização, foco em produtividade operacional e boas práticas de automação.
 
-![Capa do Projeto](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPOSITORIO/main/img/capa-email-automation.png)
+![Capa do projeto](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0284C7&height=220&section=header&text=Automacao%20de%20Emails&fontSize=42&fontColor=ffffff)
 
 ## ✨ Funcionalidades
 - 📬 Envio em lote a partir de planilha CSV com colunas nome e email
