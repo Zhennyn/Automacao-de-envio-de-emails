@@ -1,0 +1,7 @@
+Ola, {nome}!
+
+Este e um email de teste enviado por automacao.
+Se quiser, responda este email.
+
+Abracos,
+Equipe
