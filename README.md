@@ -29,8 +29,8 @@ Pré-requisitos:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
+git clone https://github.com/Zhennyn/Automacao-de-envio-de-emails.git
+cd Automacao-de-envio-de-emails
 ```
 
 2. Crie e ative um ambiente virtual:
