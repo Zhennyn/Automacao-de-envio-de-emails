@@ -88,17 +88,8 @@ python send_emails.py --send --limit 50 --delay 1.5
 ## 📸 Screenshots
 No momento, este repositório ainda não possui screenshots versionadas em img/ ou public/.
 
-Sugestões de imagens para adicionar:
-- Execução em modo simulação no terminal
-- Execução em modo real com resumo final
-- Exemplo do template HTML renderizado
-
 ## 🌐 Demonstração
-Demo em vídeo (em breve): https://www.youtube.com/watch?v=SEU-LINK
-
-Se preferir, adicione também:
-- Link de execução guiada no LinkedIn
-- GIF curto do fluxo completo no README
+Demo em vídeo (em breve):
 
 ## 📌 Sobre o projeto
 Este projeto foi desenvolvido como iniciativa prática de automação operacional (2026), com foco em reduzir tarefas repetitivas de comunicação e aumentar padronização de processos.
